@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="RUAP_LV6_Drugi.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RUAP_LV6_Drugi">
+
+</Application>
